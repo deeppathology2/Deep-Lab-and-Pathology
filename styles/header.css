@@ -1,0 +1,104 @@
+.header-1 {
+    background-color: rgb(34, 67, 140);
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    z-index: 1000;
+
+    
+    
+}
+
+.header-1:hover {
+    opacity: 75%;
+    transition-duration: .3s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    cursor: pointer;
+}
+
+.left-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    min-width: 168px;
+    height: 40px;
+    
+}
+
+
+
+.call-icon {
+    height: 25px;
+    margin-left: 10px;
+    border-radius: 14px;
+    
+}
+
+.number {
+    font-family: Poppins;
+    margin-left: 5px;
+    font-weight: 500;
+    color: white;
+}
+.slogan {
+    font-family: Poppins;
+    margin-right: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+}
+
+body {
+    
+    padding-top:  50px;
+    padding-left: 5px;
+    
+}
+
+
+
+.right-section {
+    padding-left: 20px;
+    min-width: 300px ;
+}
+
+
+
+.header-2 {
+    display: flex;
+    flex-direction: row;
+    
+    width: 100%;
+}
+
+.logo {
+    height: 50px;
+    margin-top: 12px;
+    
+}
+
+.company-name {
+    font-family: Poppins;
+    margin-left: 10px;
+    font-size: 40px;
+    margin-top: 8px;
+    font-weight: 700;
+    
+}
+
+.dp {
+    min-width: 457px;
+    font-size: 100%;
+    overflow: hidden;
+    
+}
+

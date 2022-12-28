@@ -1,0 +1,28 @@
+.footer {
+    background-color: rgb(34, 67, 140);
+    margin-top: 200px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.font1,.font2 {
+    font-family: Poppins;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    
+}
+
+.font2 {
+    padding-bottom: 0;
+}
+
+.font3 {
+    font-family: Poppins;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    
+}   
+
